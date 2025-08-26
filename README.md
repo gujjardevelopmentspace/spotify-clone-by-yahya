@@ -1,4 +1,4 @@
-Here’s a professional **README.md** tailored for your **Spotify Clone** project:
+Here’s a professional **README.md** tailored for your *Spotify Clone** project:
 
 ````markdown
 # Spotify Clone by Yahya 🎵
